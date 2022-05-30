@@ -1,0 +1,128 @@
+{
+  "Aggregated": false,
+  "Data": [
+    {
+      "close": 1.234,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.321,
+      "low": 1.232,
+      "open": 1.248,
+      "time": 1652832000,
+      "volumefrom": 44949.69,
+      "volumeto": 55487.94
+    },
+    {
+      "close": 1.246,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.255,
+      "low": 1.179,
+      "open": 1.234,
+      "time": 1652918400,
+      "volumefrom": 48991.36,
+      "volumeto": 61020.05
+    },
+    {
+      "close": 1.249,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.316,
+      "low": 1.229,
+      "open": 1.246,
+      "time": 1653004800,
+      "volumefrom": 57051.25,
+      "volumeto": 71257.63
+    },
+    {
+      "close": 1.249,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.257,
+      "low": 1.228,
+      "open": 1.249,
+      "time": 1653091200,
+      "volumefrom": 15780.21,
+      "volumeto": 19705.28
+    },
+    {
+      "close": 1.251,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.259,
+      "low": 1.207,
+      "open": 1.249,
+      "time": 1653177600,
+      "volumefrom": 21390.13,
+      "volumeto": 26751.71
+    },
+    {
+      "close": 1.256,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.323,
+      "low": 1.247,
+      "open": 1.251,
+      "time": 1653264000,
+      "volumefrom": 38286.66,
+      "volumeto": 48093.09
+    },
+    {
+      "close": 1.254,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.261,
+      "low": 1.212,
+      "open": 1.256,
+      "time": 1653350400,
+      "volumefrom": 28263.22,
+      "volumeto": 35449.11
+    },
+    {
+      "close": 1.258,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.287,
+      "low": 1.25,
+      "open": 1.254,
+      "time": 1653436800,
+      "volumefrom": 26906.19,
+      "volumeto": 33856.12
+    },
+    {
+      "close": 1.261,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.29,
+      "low": 1.213,
+      "open": 1.258,
+      "time": 1653523200,
+      "volumefrom": 45080.31,
+      "volumeto": 56864.75
+    },
+    {
+      "close": 1.263,
+      "conversionSymbol": "BTC",
+      "conversionType": "invert_divide",
+      "high": 1.297,
+      "low": 1.248,
+      "open": 1.261,
+      "time": 1653609600,
+      "volumefrom": 36570.36,
+      "volumeto": 46196.53
+    },
+    {
+      "close": 1.264,
+      "conversionSymbol": "",
+      "conversionType": "direct",
+      "high": 1.265,
+      "low": 1.264,
+      "open": 1.264,
+      "time": 1653696000,
+      "volumefrom": 200457.31,
+      "volumeto": 253408.41
+    }
+  ],
+  "TimeFrom": 1652832000,
+  "TimeTo": 1653696000
+}
